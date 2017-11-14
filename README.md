@@ -18,11 +18,10 @@ Google Developer Scholarship Udacity Front End notes, assignments
 
 ## CSS
 
-```
-p {color: blue;}
-```
+```p {color: blue;}```
 
 ```p``` is the selector
+
 ```{color: blue;}``` is the declaration block
 
 
