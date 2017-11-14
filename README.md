@@ -24,6 +24,10 @@ Google Developer Scholarship Udacity Front End notes, assignments
 
 ```{color: blue;}``` is the declaration block
 
+ ```/* like C++ */``` is a comment
+ 
+ 
+
 
 
 
