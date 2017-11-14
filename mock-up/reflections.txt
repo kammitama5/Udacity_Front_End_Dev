@@ -1,0 +1,16 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  <sup> for subscript
+  <strike> for crossing off
+  <hr> for footer page break
+  html margins without css <body style="margin:30px;padding:5px">
+  * What has been easy?
+  generally breaking things into bits
+  * What has been difficult?
+  remembering how to do images and links..I'm used to markdown
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+  trying to figure it out myself, and then googling. But also trying to apply reason as to how to remember.
+  I've started dividing things into chunks first, then going from there.
+---
+
+Your response goes here!
