@@ -34,6 +34,12 @@ Google Developer Scholarship Udacity Front End notes, assignments
 
 ```{color: blue;}``` is the declaration block
 
+## Packages for Sublime (I should be learning Emacs over winter break)
+
+```Emmet```, ```Color Highlighter```, ```Pigments```, ```Sublime Tutor```
+
+- More packages at [packagecontrol.io](https://packagecontrol.io/)
+
  
  
 
