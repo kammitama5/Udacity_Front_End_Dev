@@ -19,6 +19,11 @@ Google Developer Scholarship Udacity Front End notes, assignments
 
 ```<body style="margin:30px;padding:5px">``` html margins without using css
 
+## Concepts (HTML)
+
+- ```id``` can only be used once per page (should be used sparingly)
+
+
 ## CSS
 
 ```/* like C++ */``` is a comment
