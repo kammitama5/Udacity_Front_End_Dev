@@ -4,6 +4,9 @@ Google Developer Scholarship Udacity Front End notes, assignments
 ## Notes
 
 ## HTML
+
+```<!-- Weird..I'll never remember this -->``` - comment in HTML
+
 ```<strong></strong>``` to make bold
 
 ```<em></em>``` to make italicized
@@ -18,13 +21,14 @@ Google Developer Scholarship Udacity Front End notes, assignments
 
 ## CSS
 
+```/* like C++ */``` is a comment
+
 ```p {color: blue;}```
 
 ```p``` is the selector
 
 ```{color: blue;}``` is the declaration block
 
- ```/* like C++ */``` is a comment
  
  
 
