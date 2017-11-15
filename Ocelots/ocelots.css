@@ -1,0 +1,30 @@
+/* add your CSS here */
+.interesting
+{
+	font-style: italic;
+}
+
+.description
+{
+
+
+}
+
+.detail
+{
+	border-style: ridge;
+}
+
+img
+{
+	box-shadow: 10px 10px 5px grey;
+}
+
+ul{
+	list-style-type:none;
+}
+
+.background
+{
+	background-color:#B0C4DE;
+}
