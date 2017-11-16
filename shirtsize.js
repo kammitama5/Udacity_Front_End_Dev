@@ -1,3 +1,15 @@
+/* shirt size 
+where:
+S => width : 18", length : 28", sleeve : 8.13"
+M => width : 20", length : 29", sleeve : 8.38"
+L => width : 22", length : 30", sleeve : 8.63"
+XL => width : 24", length : 31", sleeve : 8.88"
+2XL => width : 26", length : 33", sleeve : 9.63"
+3XL => width : 28", length : 34", sleeve : 10.13"
+*/
+
+
+
 if (((shirtWidth >= 18) && (shirtLength >= 28) && (shirtSleeve >= 8.13))
 && ((shirtWidth < 20) && (shirtLength < 29) && (shirtSleeve < 8.38))){
   console.log("S")
