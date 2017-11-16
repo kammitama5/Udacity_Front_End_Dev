@@ -59,6 +59,10 @@ Google Developer Scholarship Udacity Front End notes, assignments
   - ```{}```
   - ```[]```
   
+## Ternary
+
+- format => ```condition ? true : false;```
+  eg. ```isRaining ? "carry umbrella" : "leave umbrella at home";```
   
   
 
