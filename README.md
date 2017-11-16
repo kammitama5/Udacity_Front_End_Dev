@@ -40,6 +40,29 @@ Google Developer Scholarship Udacity Front End notes, assignments
 
 - More packages at [packagecontrol.io](https://packagecontrol.io/)
 
+## JS
+
+- list of **falsy** values
+  - ```false```
+  - ```null```
+  - 0
+  - ""
+  - ```NaN```
+
+- list of some **truthy** values
+  - true
+  - 42 
+  - "pizza"
+  - "0"
+  - "null"
+  - "undefined"
+  - ```{}```
+  - ```[]```
+  
+  
+  
+
+
  
  
 
