@@ -1,6 +1,10 @@
 # Udacity Front End Dev
 Google Developer Scholarship Udacity Front End notes, assignments
 
+## Practice : note to self
+
+- anonymous functions 
+
 ## Notes
 
 ## HTML
