@@ -87,6 +87,27 @@ function findAverage(x, y){
   // reminds me of prototyping in C++
 }
 ```
+
+## Func Declaration vs Func Expression 
+
+```
+function catSays(max)
+{
+  //blah
+};
+catSays();
+```
+
+vs 
+
+```
+var catSays = 
+function(max)
+{
+  //blah
+};
+catSays();
+```
   
   
 
