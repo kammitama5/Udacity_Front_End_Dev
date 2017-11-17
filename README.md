@@ -77,6 +77,16 @@ function reverseString(reverseMe){
 ```
 ## Hoisting
 - Before any JavaScript is executed, all function declarations are **"hoisted"** to the top of their current scope
+
+```
+wat-> 
+findAverage(5, 9);
+function findAverage(x, y){
+  var answer = (x + y) / 2;
+  return answer;
+  // reminds me of prototyping in C++
+}
+```
   
   
 
