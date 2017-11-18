@@ -113,6 +113,22 @@ function(max)
 catSays();
 ```
   
+## Arrays 
+
+- forEach()
+
+```
+var donuts = ["jelly donut", "chocolate donut", "glazed donut"];
+
+function printDonuts(donut)
+{
+  donut += " hole";
+  donut = donut.toUpperCase();
+  console.log(donut);
+}
+
+donuts.forEach(printDonuts);
+```
   
 
 
