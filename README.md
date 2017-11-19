@@ -153,6 +153,14 @@ var newArray = myArray.map(function(elem){
 
 ## JQuery
 
+- selectors 
+
+```$('tag')```
+```$('.class')```
+```$('#id')```
+
+
+
 
  
  
