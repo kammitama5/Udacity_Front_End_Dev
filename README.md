@@ -151,6 +151,8 @@ var newArray = myArray.map(function(elem){
 });
 ```
 
+## JQuery
+
 
  
  
