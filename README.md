@@ -162,8 +162,14 @@ var newArray = myArray.map(function(elem){
 ## Traversals 
 
 ```
+// only goes up one level
 $('#Blah').parent()
+
+// goes all the way to the top of the dom tree
 .parents()
+
+// can use $('#Blah').parents('#foo') to filter specific value of foo
+
 .children()
 .find()
 .siblings()
