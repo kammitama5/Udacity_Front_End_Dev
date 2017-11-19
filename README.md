@@ -170,8 +170,13 @@ $('#Blah').parent()
 
 // can use $('#Blah').parents('#foo') to filter specific value of foo
 
+// one level down tree
 .children()
+
+// if you wanted to go more than one level down 
 .find()
+
+// having the same parent
 .siblings()
 ```
 
