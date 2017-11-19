@@ -159,6 +159,18 @@ var newArray = myArray.map(function(elem){
 ```$('.class')```
 ```$('#id')```
 
+## Traversals 
+
+```
+$('#Blah').parent()
+.parents()
+.children()
+.find()
+.siblings()
+```
+
+
+
 
 
 
