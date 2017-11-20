@@ -195,6 +195,12 @@ $('#Blah').parent()
 ```$('.blah').text()```
 - strips off all html and only shows text contained within
 
+- each
+```
+$('.example').each(function(){
+	$(this).text(); // returns text of each element 
+});
+```
 
  
  
