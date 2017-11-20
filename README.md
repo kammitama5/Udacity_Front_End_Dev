@@ -180,9 +180,20 @@ $('#Blah').parent()
 .siblings()
 ```
 
+## JQuery Methods
 
+- append -> added as a child (as last child)
+- prepend-> added as first child 
+- if you wanted the element to have a sibling
+- use .insertBefore() or .insertAfter()
+- .insertBefore adds sibling before element 
+- .insertAfter adds sibling after element
 
+```$('.blah').html()```
+- you'll see everything inside the html 
 
+```$('.blah').text()```
+- strips off all html and only shows text contained within
 
 
  
