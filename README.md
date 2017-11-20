@@ -202,8 +202,17 @@ $('.example').each(function(){
 });
 ```
 ## Event Listeners
- 
- 
+
+- common format 
+
+```
+ $([B]).[C]([D], [A])
+A. A function with the stuff we want to do
+B. the target element being listened to
+C. on 
+D. the type of event being listened for
+*/
+```
 
 
 
