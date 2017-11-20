@@ -201,7 +201,7 @@ $('.example').each(function(){
 	$(this).text(); // returns text of each element 
 });
 ```
-
+## Event Listeners
  
  
 
