@@ -230,7 +230,10 @@ ordinarily would have to wait for response
 
 AJAX -> asynchronous JavaScript and XML
 
-callback-> call when get response back 
+callback-> call when get response back
+
+AJAX response -> Data -> XML <entry></entry> JSON {property:data} HTML <div></div>
+
 ```
 
 
