@@ -220,6 +220,18 @@ D. the type of event being listened for
 request page -> receive response -> AJAX request for resources -> receive AJAX resources
 ```
 
+```
+client -> internet -> server
+
+response: 
+
+requests -> 
+ordinarily would have to wait for response 
+
+AJAX -> asynchronous JavaScript and XML
+
+callback-> call when get response back 
+```
 
 
 
