@@ -214,6 +214,12 @@ D. the type of event being listened for
 */
 ```
 
+## AJAX
+
+```
+request page -> receive response -> AJAX request for resources -> receive AJAX resources
+```
+
 
 
 
