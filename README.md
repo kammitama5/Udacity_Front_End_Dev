@@ -236,6 +236,9 @@ AJAX response -> Data -> XML <entry></entry> JSON {property:data} HTML <div></di
 
 ```
 
+- CORS: Cross-Origin Resource Sharing (policy meant to protect servers from malicious requests). Enabled on server-side. 
+  Some APIs support it; others do not. 
+  
 
 
 
