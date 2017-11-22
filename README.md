@@ -218,7 +218,7 @@ D. the type of event being listened for
 
 - Intro to Ajax coursework (optional)
 
-<img src="/images/ajax.png" width="400">
+<img src="ajax.png" width="400">
 
 ```
 request page -> receive response -> AJAX request for resources -> receive AJAX resources
